@@ -9,7 +9,7 @@
 * on-site classroom non-expert teachers.
 * artificial intelligence (AI) for automatic student scoring.
 
-<p style="font-size:16px">WeTeach empower senior high school graduates to act as facilitators for primary (250 words) and middle schools, while any university graduate can take on the facilitator role across all K-12 levels.</p>
+<p style="font-size:16px">WeTeach empower senior high school graduates to act as facilitators for primary and middle schools, while any university graduate can take on the facilitator role across all K-12 levels.</p>
 
 ---
 ### Everyone can teach with our innovative guidelines!
