@@ -1,7 +1,7 @@
-title: We Teach! Everyone can teach # your name (or website title) here
+title: WeTeach # your name (or website title) here
 logo: "/images/We TEACH.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Are you looking to explore alternative approaches that can address these challenges and provide a more holistic educational experience for students in rural areas? Let's delve deeper into the innovative solutions that are reshaping education in underserved regions. This project is initiated by <a href="https://www.linkedin.com/in/nuaisyah/">Nurul Aisyah, M.Ed.</a> and <a href="http://fajrikoto.com">Fajri Koto, Ph.D.</a>.
+  Are you looking to explore alternative approaches that can provide a holistic educational experience for students in rural areas? Let's delve deeper into our innovative solutions. This project is initiated by <a href="https://www.linkedin.com/in/nuaisyah/">Nurul Aisyah, M.Ed.</a> and <a href="http://fajrikoto.com">Fajri Koto, Ph.D.</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
