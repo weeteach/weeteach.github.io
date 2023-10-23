@@ -21,8 +21,13 @@
 </br>
 <img src="images/AI.png?raw=true"/>
 
+---
 ### Goal
-
-
+1. Delivering high-quality education in rural areas through a blend of video-based learning and on-site classroom teachers.
+2. Addressing the scarcity of qualified teachers in rural areas by enabling senior high school graduates to serve as facilitators for primary and middle schools, and any university graduate to assume the facilitator role for K-12 levels.
+3. Harnessing the advancements in artificial intelligence for an automated student assessment system and evaluating its effectiveness.
+4. Investigating the efficacy of this innovative learning approach in both rural and urban settings.
 
 ---
+### Learning Module Example
+
