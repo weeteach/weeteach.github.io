@@ -13,7 +13,7 @@
 
 ---
 ### Everyone can teach with our innovative guidelines!
-</br>
+
 <img src="images/Video of Educaio.png?raw=true"/>
 
 ---
@@ -28,7 +28,7 @@
 4. Investigating the efficacy of this innovative learning approach in both rural and urban settings.
 
 ---
-### Learning Module Example
+### Learning Gamification Example
 
 <div class="img-one">
   <a href="https://view.genial.ly/6535e416d6c2600010772156/interactive-content-farm-quiz" target="blank">
