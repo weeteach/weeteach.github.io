@@ -31,3 +31,8 @@
 ---
 ### Learning Module Example
 
+<div class="img-one">
+  <a href="https://view.genial.ly/6535e416d6c2600010772156/interactive-content-farm-quiz" target="blank">
+    <img src="images/click.gif" alt="Click here for our learning module example"  width="250" />
+  </a>
+</div>
