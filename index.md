@@ -1,6 +1,6 @@
 # weTeach
 
-<p style="font-size:18px">Let's delve deeper into the innovative solutions that are reshaping education in underserved regions.</p>
+<p style="font-size:16px">Let's delve deeper into the innovative solutions that are reshaping education in underserved regions.</p>
 
 ---
 
@@ -9,7 +9,7 @@
 * on-site classroom non-expert teachers.
 * artificial intelligence (AI) for automatic student scoring.
 
-<p style="font-size:18px">weTeach empower senior high school graduates to act as facilitators for primary (250 words) and middle schools, while any university graduate can take on the facilitator role across all K-12 levels.</p>
+<p style="font-size:16px">weTeach empower senior high school graduates to act as facilitators for primary (250 words) and middle schools, while any university graduate can take on the facilitator role across all K-12 levels.</p>
 
 ---
 ### Everyone can teach with our innovative guidelines!
@@ -18,7 +18,6 @@
 
 ---
 ### weTeach is powered by AI to automate student assessment
-</br>
 <img src="images/AI.png?raw=true"/>
 
 ---
