@@ -1,11 +1,12 @@
 # WeTeach
 
 <p style="font-size:16px">Let's delve deeper into the innovative solutions that are reshaping education in underserved regions.</p>
+<img src="images/Weeteach 2.png?raw=true"/>
 
 ---
 
 ### WeTeach is an innovative learning framework that integrates 
-* video-based instruction from education experts, with
+* video-based instruction and interactive digital activites created by education experts.
 * on-site classroom non-expert teachers.
 * artificial intelligence (AI) for automatic student scoring.
 
